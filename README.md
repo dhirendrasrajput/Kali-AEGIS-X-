@@ -38,3 +38,37 @@ AEGIS-X is designed to simulate **real-world adversarial behavior** and validate
 ---
 
 ## 🏗️ Reference Architecture
+
+Attacker Simulation Layer
+↓
+Attack Orchestration Engine
+↓
+Target Environment (Cloud / IAM / APIs)
+↓
+Detection Systems (SIEM / EDR / SOC)
+↓
+Validation & Reporting Engine
+
+---
+
+## 🚀 Use Cases
+
+- Enterprise Red Team / Blue Team validation
+- SOC effectiveness benchmarking
+- Zero Trust validation
+- Pre-production security testing
+
+---
+
+## 🔐 Alignment
+
+- MITRE ATT&CK Framework
+- SABSA Architecture
+- Zero Trust Principles
+- RBI / PCI-DSS security validation
+
+---
+
+## ⚠️ Disclaimer
+
+This project is strictly for **defensive and research purposes**.
